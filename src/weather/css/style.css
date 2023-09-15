@@ -1,17 +1,21 @@
-/* body{
-    background-image: url(https://images.hdqwalls.com/download/red-sky-sunrise-landscape-4k-rb-1680x1050.jpg);
-} */
-
+body{
+    /* height: 80%; */
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 .title {
     text-align: center;
-    margin: 20px 00px;
+    padding: 20px 00px;
     color: gold;
 }
 
 .box {
     
-    margin: 70px auto;
-    width: 428px;
+    margin: 50px auto;
+    width: 358px;
     height: 55vh;
     border: teal 10px solid;
     border-radius: 20px;
